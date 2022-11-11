@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shàohéng Liáng 梁少恒"
+  name             : "Shàohéng Liáng \n梁少恒"
   avatar           : "profile.png"
-  bio              : "Computer scientist/bioinformatician"
+  bio              : "Computer scientist / bioinformatician"
   location         : "Houston, TX"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Liang+Shaoheng"
