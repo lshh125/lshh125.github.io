@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shàohéng Liáng<br>梁少恒"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Computer scientist / bioinformatician"
   location         : "Houston, TX"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9575-1522"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
