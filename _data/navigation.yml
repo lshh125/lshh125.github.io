@@ -21,8 +21,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Cooking/烹饪"
-    url: /cooking/
-
   - title: "中文"
     url: /zh/
