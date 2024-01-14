@@ -1,0 +1,11 @@
+---
+title: "Large Language Models in Computational Biology – A Primer"
+collection: talks
+type: "Talk"
+permalink: /talks/C3AI-2023
+venue: "C3 Generative AI workshop"
+date: 2023-11-09
+location: "UIUC, IL"
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mk-Se29QPBA" title="Large Language Models in Computational Biology – A Primer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
