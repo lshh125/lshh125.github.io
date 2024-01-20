@@ -21,5 +21,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "中文"
+  - title: "Blog Posts"
+    url: /_posts/
+
+  - title: "中文介绍"
     url: /zh/
