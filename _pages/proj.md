@@ -16,7 +16,7 @@ Generative modeling of spatial transcriptomics with large language models: tissu
 - Preprint: ["TissueNarrator: Generative Modeling of Spatial Transcriptomics with Large Language Models." bioRxiv (2025).](https://www.biorxiv.org/content/10.1101/2025.11.24.690325v1)
 - Python package: https://github.com/ma-compbio-lab/TissueNarrator
 
-## Steamboat (2025)
+## Steamboat (2026)
 Attention-based, interpretable decomposition of a cell's gene expression into intrinsic programs, neighboring-cell communication, and long-range interactions.
 
 ![Steamboat overview](/images/steamboat.png)
