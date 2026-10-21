@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lane Fellow in Carnegie Mellon University's Ray and Stephanie Lane Computational Biology Department, working with Jian Ma.
+I am a Lane Fellow in Carnegie Mellon University's Ray and Stephanie Lane Computational Biology Department, working with [Jian Ma](https://www.cs.cmu.edu/~jianma/).
 
-I received my Ph.D. in Computer Science from Rice University, advised by Ken Chen and Luay Nakhleh, and conducted my doctoral research at MD Anderson Cancer Center. Before joining CMU, I worked as a bioinformatics research scientist at NuProbe. I earned my B.Eng. from Tsinghua University.
+I received my Ph.D. in Computer Science from Rice University, advised by [Ken Chen](https://www.mdanderson.org/research/departments-labs-institutes/labs/ken-chen-laboratory.html) and [Luay Nakhleh](https://nakhleh.rice.edu/), and conducted my doctoral research at MD Anderson Cancer Center. Before joining CMU, I worked as a bioinformatics research scientist at NuProbe. I earned my B.Eng. from Tsinghua University.
 
 My research experience encompasses machine learning and computational biology. Right now, I focus on *generative* and *interpretable* models for single-cell and spatial omics. I aim to connect accurate prediction with biological insight by identifying molecular programs and cell–cell interactions that explain changes in cellular state. My work addresses questions in cancer, immunity, and development, with the goal of generating testable hypotheses that guide experiments.
 
@@ -79,8 +79,34 @@ My research experience encompasses machine learning and computational biology. R
 
 ## Teaching experience
 
-- **Carnegie Mellon University, guest lecturer:** Spatial omics (2025); local sequence alignment and the Burrows–Wheeler transform (2026).
-- **Gulf Coast Consortia, workshop instructor (2026):** Multiomics integration and feature selection, Single-Cell Omics Workshop.
-- **Rice University, teaching assistant:** Statistical Machine Learning (2018–2020); Statistical Models and Algorithms for Data Science (2018–2019).
+### Guest lecture: Local sequence alignment and the Burrows–Wheeler transform
+{: .teaching-activity }
+
+***Carnegie Mellon University***, 2026.
+{: .teaching-place }
+
+### Guest lecture: Introduction to spatial omics
+{: .teaching-activity }
+
+***Carnegie Mellon University***, 2025.
+{: .teaching-place }
+
+### Workshop instruction: Multiomics integration and feature selection
+{: .teaching-activity }
+
+***Gulf Coast Consortia Single-Cell Omics Workshop***, 2026.
+{: .teaching-place }
+
+### Teaching assistant: Statistical Machine Learning
+{: .teaching-activity }
+
+***Rice University***, 2018–2020.
+{: .teaching-place }
+
+### Teaching assistant: Statistical Models and Algorithms for Data Science
+{: .teaching-activity }
+
+***Rice University***, 2018–2019.
+{: .teaching-place }
 
 

@@ -63,13 +63,15 @@
   font-size: 0.8em;
 }
 
-.page__content .publication-title {
+.page__content .publication-title,
+.page__content .teaching-activity {
   margin: 1.5em 0 0.25em;
   font-weight: 400;
   line-height: 1.35;
 }
 
-.page__content .publication-citation {
+.page__content .publication-citation,
+.page__content .teaching-place {
   margin-bottom: 1.5em;
   font-size: 0.9em;
   line-height: 1.35;
