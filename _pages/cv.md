@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Download my [curriculum vitae (PDF)]({{ '/files/cv.pdf' | relative_url }}).
 
-<embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'> 
+<object class="cv-viewer" data="{{ '/files/cv.pdf' | relative_url }}" type="application/pdf" aria-label="Shaoheng Liang's curriculum vitae">
+  <p><a href="{{ '/files/cv.pdf' | relative_url }}">Open the CV PDF</a> to view it in your browser or save a copy.</p>
+</object>

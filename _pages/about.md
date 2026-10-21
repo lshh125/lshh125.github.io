@@ -1,13 +1,34 @@
 ---
 permalink: /
-title: "Shaoheng Liang's Personal Website"
-excerpt: "About me"
+title: "Shaoheng Liang"
+excerpt: "Machine learning for understanding cellular state, tissue context, and perturbation responses."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a computer scientist/bioinformatician. I am a Lane Fellow working with Dr. Jian Ma in Ray and Stephanie Lane Computational Biology Department at Carnegie Mellon University. Before that, I worked at NuProbe USA, Inc., a company innovating cutting-edge seqeucing solutions for disease detection. 
+Generative and interpretable models of tissue biology
+{: .research-tagline }
 
-I earned my Ph.D. degree from Rice University, Department of Computer Science. Co-advised by Dr. Ken Chen (research advisor) and Dr. Luay Nakhleh (academic advisor), my PhD works were done in Dr. Ken Chen's Computational Genomics Lab at MD Anderson Cancer Center, where I established wide collaboration with biomedical researchers. Before that, I got my Bachelor of Engineering in Electronic Information Science and Technology from Tsinghua University, Department of Electronic Engineering. 
+I am a Lane Fellow and postdoctoral researcher in Carnegie Mellon University's Ray and Stephanie Lane Computational Biology Department, working with Jian Ma. I develop machine-learning methods to understand how a cell's molecular state and tissue environment shape its behavior and response to perturbation.
+
+My research focuses on generative and interpretable models for single-cell and spatial omics. I aim to connect accurate prediction with biological insight by identifying molecular programs and cell–cell interactions that explain changes in cellular state. My work addresses questions in cancer, immunity, and development, with the goal of generating testable hypotheses that guide experiments.
+
+I received my Ph.D. in Computer Science from Rice University, advised by Ken Chen and Luay Nakhleh, and conducted my doctoral research at MD Anderson Cancer Center. Before joining CMU, I worked as a bioinformatics research scientist at NuProbe. I earned my B.Eng. from Tsinghua University.
+
+<div class="profile-links" aria-label="Professional links">
+  <a href="{{ '/files/cv.pdf' | relative_url }}" class="btn btn--primary">CV (PDF)</a>
+  <a href="mailto:{{ site.author.email }}">Email</a>
+  <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+  <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+  <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>
+</div>
+
+## Research interests
+
+- **Representation learning** for single-cell and spatial data.
+- **Generative modeling** of cells, tissue context, and perturbation responses.
+- **Interpretable machine learning** for molecular programs and cellular interactions.
+
+[Explore my research and software →]({{ '/proj/' | relative_url }})
