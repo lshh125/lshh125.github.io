@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Generative and interpretable models of tissue biology
-{: .research-tagline }
-
 I am a Lane Fellow and postdoctoral researcher in Carnegie Mellon University's Ray and Stephanie Lane Computational Biology Department, working with Jian Ma. I develop machine-learning methods to understand how a cell's molecular state and tissue environment shape its behavior and response to perturbation.
 
 My research focuses on generative and interpretable models for single-cell and spatial omics. I aim to connect accurate prediction with biological insight by identifying molecular programs and cell–cell interactions that explain changes in cellular state. My work addresses questions in cancer, immunity, and development, with the goal of generating testable hypotheses that guide experiments.
