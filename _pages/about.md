@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaoheng Liang"
+title: "About"
 excerpt: "Machine learning for understanding cellular state, tissue context, and perturbation responses."
 author_profile: true
 redirect_from: 
