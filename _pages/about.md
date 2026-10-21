@@ -22,7 +22,7 @@ My research experience encompasses machine learning and computational biology. R
 ### STEAMBOAT: Attention-based multiscale delineation of cellular interactions in tissues
 {: .publication-title }
 
-***RECOMB***, pp. 432–436, 2025; extended manuscript accepted in principle by ***Nature Methods***.<br>
+***RECOMB*** 2025; extended manuscript accepted in principle by ***Nature Methods***.<br>
 <span class="publication-authors"><strong>Shaoheng Liang</strong>, Junjie Tang, Guanghan Wang, Jian Ma.</span><br>
 [Paper](https://doi.org/10.1007/978-3-031-90252-9_55)
 {: .publication-citation }
