@@ -30,7 +30,7 @@ My research experience encompasses machine learning and computational biology. R
 ### TissueNarrator: Generative Modeling of Spatial Transcriptomics with Large Language Models
 {: .publication-title }
 
-***bioRxiv*** preprint, 2025; under review at ***Nature Biomedical Engineering*** <br>
+***bioRxiv*** preprint, 2025; under review at ***Nature Biomedical Engineering***.<br>
 <span class="publication-authors">Sizhe Liu, Junjie Tang, Jian Ma<sup>†</sup>, <strong>Shaoheng Liang</strong><sup>†</sup>.</span><br>
 [Paper](https://www.biorxiv.org/content/10.1101/2025.11.24.690325v1)
 {: .publication-citation }
