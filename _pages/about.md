@@ -30,17 +30,9 @@ My research experience encompasses machine learning and computational biology. R
 ### TissueNarrator: Generative Modeling of Spatial Transcriptomics with Large Language Models
 {: .publication-title }
 
-***bioRxiv*** preprint, 2025.<br>
+***bioRxiv*** preprint, 2025; under review at ***Nature Biomedical Engineering*** <br>
 <span class="publication-authors">Sizhe Liu, Junjie Tang, Jian Ma<sup>†</sup>, <strong>Shaoheng Liang</strong><sup>†</sup>.</span><br>
 [Paper](https://www.biorxiv.org/content/10.1101/2025.11.24.690325v1)
-{: .publication-citation }
-
-### Single-cell CRISPR immune screens reveal immunological roles of tumor intrinsic factors
-{: .publication-title }
-
-***NAR Cancer*** 4(4), zcac038, 2022.<br>
-<span class="publication-authors">Jiakai Hou<sup>&#42;</sup>, <strong>Shaoheng Liang</strong><sup>&#42;</sup>, Chunyu Xu, Yanjun Wei, Yunfei Wang, Yukun Tan, Nidhi Sahni, Daniel J. McGrail, Chantale Bernatchez, Michael Davies, et al.</span><br>
-[Paper](https://academic.oup.com/narcancer/article/4/4/zcac038/6884717)
 {: .publication-citation }
 
 ### Single-cell manifold-preserving feature selection for detecting rare cell populations
@@ -51,12 +43,38 @@ My research experience encompasses machine learning and computational biology. R
 [Paper](https://doi.org/10.1038/s43588-021-00070-7)
 {: .publication-citation }
 
+
+
 ### Latent periodic process inference from single-cell RNA-seq data
 {: .publication-title }
 
 ***Nature Communications*** 11(1), 1441, 2020.<br>
 <span class="publication-authors"><strong>Shaoheng Liang</strong>, Fang Wang, Jincheng Han, Ken Chen.</span><br>
 [Paper](https://www.nature.com/articles/s41467-020-15295-9)
+{: .publication-citation }
+
+### Bi-order multimodal integration of single-cell data
+{: .publication-title }
+
+***Genome Biology*** 23, 112, 2022.<br>
+<span class="publication-authors">Jinzhuang Dou<sup>&#42;</sup>, <strong>Shaoheng Liang</strong><sup>&#42;</sup>, Vakul Mohanty, Qi Miao, Yuefan Huang, Qingnan Liang, Xuesen Cheng, Sangbae Kim, Jongsu Choi, Yumei Li, et al.</span><br>
+[Paper](https://link.springer.com/article/10.1186/s13059-022-02679-x)
+{: .publication-citation }
+
+### In-depth analysis of SARS-CoV-2–specific T cells reveals diverse differentiation hierarchies in vaccinated individuals
+{: .publication-title }
+
+***JCI Insight*** 7(7), e156559, 2022.<br>
+<span class="publication-authors">Li Li<sup>&#42;</sup>, Muharrem Muftuoglu<sup>&#42;</sup>, <strong>Shaoheng Liang</strong><sup>&#42;</sup>, Mahesh Basyal, Jiangxing Lv, Mehmet Emin Akdogan, Ken Chen, Michael Andreeff, Christopher R. Flowers, Simrit Parmar.</span><br>
+[Paper](https://insight.jci.org/articles/view/156559)
+{: .publication-citation }
+
+### Single-cell CRISPR immune screens reveal immunological roles of tumor intrinsic factors
+{: .publication-title }
+
+***NAR Cancer*** 4(4), zcac038, 2022.<br>
+<span class="publication-authors">Jiakai Hou<sup>&#42;</sup>, <strong>Shaoheng Liang</strong><sup>&#42;</sup>, Chunyu Xu, Yanjun Wei, Yunfei Wang, Yukun Tan, Nidhi Sahni, Daniel J. McGrail, Chantale Bernatchez, Michael Davies, et al.</span><br>
+[Paper](https://academic.oup.com/narcancer/article/4/4/zcac038/6884717)
 {: .publication-citation }
 
 ## Teaching experience
