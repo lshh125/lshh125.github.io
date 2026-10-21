@@ -58,6 +58,17 @@
   border: 1px solid $border-color;
 }
 
+.page__content .publication-legend {
+  margin: 0.75em 0 1.5em;
+  font-size: 0.8em;
+}
+
+.page__content .publication-citation {
+  margin-bottom: 1.75em;
+  font-size: 0.9em;
+  line-height: 1.7;
+}
+
 @media print {
   .profile-links .btn {
     color: #000 !important;
