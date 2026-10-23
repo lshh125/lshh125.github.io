@@ -77,6 +77,7 @@ My research experience encompasses machine learning and computational biology. R
 | Name | Stage during mentorship | Subsequent destination |
 | --- | --- | --- |
 | Sizhe Liu | Visiting predoctoral student (2025–2026) | MIT (Ph.D. offer accepted) |
+| Yuchen Shao | Master's student | |
 | Yufan Cao | Visiting undergraduate student (2023–2024) | MIT |
 | Guanghan Wang | Visiting undergraduate student (2023) | Cornell Tech |
 | Alice Feng | High school student (2021) | Harvard University |
