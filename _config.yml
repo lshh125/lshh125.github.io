@@ -143,15 +143,11 @@ exclude:
   - package.json
   - tmp
   - vendor
-  # Retain personal content and theme examples in source without publishing them.
-  - _posts
+  # Retain the Chinese introduction and theme examples without publishing them.
   - _portfolio
   - _publications
   - _teaching
   - _pages/zh.md
-  - _pages/year-archive.html
-  - _pages/category-archive.html
-  - _pages/tag-archive.html
   - _pages/collection-archive.html
   - _pages/page-archive.html
   - _pages/archive-layout-with-content.md
@@ -287,12 +283,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-feed
   - jemoji
 
 

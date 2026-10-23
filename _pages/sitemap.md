@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Explore my research, talks, and professional background.
+Explore my research, talks, blog posts, and professional background.
 
 <ul>
 {% for link in site.data.navigation.main %}
@@ -19,4 +19,10 @@ Explore my research, talks, and professional background.
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
+{% endfor %}
+
+## Blog posts
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
 {% endfor %}

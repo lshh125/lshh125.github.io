@@ -16,10 +16,8 @@ My research experience encompasses machine learning and computational biology. R
 
 ## Selected publications
 
-<sup>&#42;</sup> Co-first author; <sup>†</sup> co-corresponding author.
+<sup>&#42;</sup> Co-first author; <sup>†</sup> co-corresponding author. · [Full publication list (Google Scholar)]({{ site.author.googlescholar }})
 {: .publication-legend }
-
-[Full publication list (Google Scholar)]({{ site.author.googlescholar }})
 
 ### STEAMBOAT: Attention-based multiscale delineation of cellular interactions in tissues
 {: .publication-title }
