@@ -63,22 +63,47 @@
   font-size: 0.8em;
 }
 
-.page__content .publication-title,
-.page__content .teaching-activity {
+.page__content .publication-title {
   margin: 1.5em 0 0.25em;
   font-weight: 400;
   line-height: 1.35;
 }
 
-.page__content .publication-citation,
-.page__content .teaching-place {
+.page__content .publication-citation {
   margin-bottom: 1.5em;
+  font-size: 0.9em;
+  line-height: 1.35;
+}
+
+.page__content .mentee-list {
   font-size: 0.9em;
   line-height: 1.35;
 }
 
 .publication-citation .publication-authors {
   font-size: 0.9em;
+}
+
+.page__content .publication-paper {
+  display: inline-block;
+  margin-left: 0.5em;
+  padding: 0.12em 0.6em;
+  border: 1px solid $text-color;
+  border-radius: 0.25em;
+  color: $text-color;
+  font-size: 0.8em;
+  font-weight: 600;
+  line-height: 1.35;
+  text-decoration: none;
+  vertical-align: baseline;
+  white-space: nowrap;
+
+  &:hover,
+  &:focus {
+    color: #fff;
+    background-color: $text-color;
+    text-decoration: none;
+  }
 }
 
 @media print {
