@@ -7,12 +7,13 @@ redirect_from:
   - /proj
 ---
 
-My research develops machine-learning methods that connect molecular measurements, tissue context, and cellular responses. I focus on representations that preserve meaningful biological variation, generative prediction of cells and tissues, and explanations that help identify testable molecular programs and cellular relationships.
-{: .research-overview }
-
-## Generative and Interpretable Models of Tissue Biology
+## Current Focus - Generative and Interpretable Models of Tissue Biology
 
 Model cellular states within their tissue environment through interpretable cell interactions and generative prediction.
+
+<figure class="research-figure">
+  <img src="{{ '/images/website-figure.png' | relative_url }}" alt="Research overview: spatial neighbors, molecular profiles, tissue context, perturbation biology, and prior knowledge inform AI and language models to predict cellular responses and identify candidate perturbations, extract testable biological hypotheses, and support future virtual tissues, AI agents, and lab feedback loops.">
+</figure>
 
 **Ongoing work:** In collaboration with Xin Jin, I analyze mouse-brain spatial perturbation data to study cell-autonomous and neighboring-cell responses.
 

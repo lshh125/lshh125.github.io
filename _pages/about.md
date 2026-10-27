@@ -12,7 +12,9 @@ I am a Lane Fellow in Carnegie Mellon University's Ray and Stephanie Lane Comput
 
 I received my Ph.D. in Computer Science from Rice University, advised by [Ken Chen](https://www.mdanderson.org/research/departments-labs-institutes/labs/ken-chen-laboratory.html) and [Luay Nakhleh](https://nakhleh.rice.edu/), and conducted my doctoral research at MD Anderson Cancer Center. Before joining CMU, I worked as a bioinformatics research scientist at NuProbe. I earned my B.Eng. from Tsinghua University.
 
-My research experience encompasses machine learning and computational biology. Right now, I focus on *generative* and *interpretable* models for single-cell and spatial omics. I aim to connect accurate prediction with biological insight by identifying molecular programs and cell–cell interactions that explain changes in cellular state. My work addresses questions in cancer, immunity, and development, with the goal of generating testable hypotheses that guide experiments.
+My research experience encompasses machine learning and computational biology. My work addresses questions in cancer, immunity, and development, with the goal of generating testable hypotheses that guide experiments. 
+
+Right now, I focus on *generative* and *interpretable* models for single-cell and spatial omics.
 
 ## Selected publications
 
@@ -70,13 +72,13 @@ My research experience encompasses machine learning and computational biology. R
 <span class="publication-authors">Jiakai Hou<sup>&#42;</sup>, <strong>Shaoheng Liang</strong><sup>&#42;</sup>, Chunyu Xu, Yanjun Wei, Yunfei Wang, Yukun Tan, Nidhi Sahni, Daniel J. McGrail, Chantale Bernatchez, Michael Davies, et al.</span>
 {: .publication-citation }
 
-## Mentees
+## Mentorship
 
 | Name | Stage during mentorship | Subsequent destination |
 | --- | --- | --- |
 | Sizhe Liu | Visiting predoctoral student (2025–2026) | MIT (Ph.D. offer accepted) |
 | Yuchen Shao | Master's student | |
-| Yufan Cao | Visiting undergraduate student (2023–2024) | MIT |
+| Yufan Cao | Visiting undergraduate student (2023–2024) | UC Berkeley |
 | Guanghan Wang | Visiting undergraduate student (2023) | Cornell Tech |
 | Alice Feng | High school student (2021) | Harvard University |
 {: .mentee-list }
